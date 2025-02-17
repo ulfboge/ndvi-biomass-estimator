@@ -1,0 +1,15 @@
+[general]
+name=NDVI Biomass Estimator
+description=Calculates NDVI and estimates biomass from satellite imagery
+version=1.0
+qgisMinimumVersion=3.0
+author=Johan Karlsson
+email=johan@kombagis.se
+about=This plugin calculates NDVI and estimates biomass from satellite imagery
+repository=https://github.com/ulfboge/ndvi_biomass_estimator
+tracker=https://github.com/ulfboge/ndvi_biomass_estimator/issues
+homepage=https://github.com/ulfboge/ndvi_biomass_estimator
+category=Raster
+icon=icon.png
+experimental=False
+deprecated=False
